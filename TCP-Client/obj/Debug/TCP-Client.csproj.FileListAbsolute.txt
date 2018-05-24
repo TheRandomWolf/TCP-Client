@@ -1,0 +1,25 @@
+c:\users\ori\documents\visual studio 2015\Projects\TCP-Client\TCP-Client\bin\Debug\TCP-Client.exe.config
+c:\users\ori\documents\visual studio 2015\Projects\TCP-Client\TCP-Client\bin\Debug\TCP-Client.exe
+c:\users\ori\documents\visual studio 2015\Projects\TCP-Client\TCP-Client\bin\Debug\TCP-Client.pdb
+c:\users\ori\documents\visual studio 2015\Projects\TCP-Client\TCP-Client\obj\Debug\TCP-Client.exe
+c:\users\ori\documents\visual studio 2015\Projects\TCP-Client\TCP-Client\obj\Debug\TCP-Client.pdb
+E:\TCP-Client\TCP-Client\bin\Debug\TCP-Client.exe.config
+E:\TCP-Client\TCP-Client\obj\Debug\TCP-Client.exe
+E:\TCP-Client\TCP-Client\obj\Debug\TCP-Client.pdb
+E:\TCP-Client\TCP-Client\bin\Debug\TCP-Client.exe
+E:\TCP-Client\TCP-Client\bin\Debug\TCP-Client.pdb
+E:\TCP-Client\TCP-Client\obj\Debug\TCP-Client.csprojResolveAssemblyReference.cache
+F:\TCP-Client\TCP-Client\bin\Debug\TCP-Client.exe.config
+F:\TCP-Client\TCP-Client\obj\Debug\TCP-Client.exe
+F:\TCP-Client\TCP-Client\obj\Debug\TCP-Client.pdb
+F:\TCP-Client\TCP-Client\bin\Debug\TCP-Client.exe
+F:\TCP-Client\TCP-Client\bin\Debug\TCP-Client.pdb
+F:\TCP-Client\TCP-Client\obj\Debug\TCP-Client.csprojResolveAssemblyReference.cache
+F:\TCP-Client\TCP-Client\bin\Debug\TCP-Client.exe.CodeAnalysisLog.xml
+F:\TCP-Client\TCP-Client\bin\Debug\TCP-Client.exe.lastcodeanalysissucceeded
+G:\TCP-Client\TCP-Client\bin\Debug\TCP-Client.exe.config
+G:\TCP-Client\TCP-Client\obj\Debug\TCP-Client.exe
+G:\TCP-Client\TCP-Client\obj\Debug\TCP-Client.pdb
+G:\TCP-Client\TCP-Client\bin\Debug\TCP-Client.exe
+G:\TCP-Client\TCP-Client\bin\Debug\TCP-Client.pdb
+G:\TCP-Client\TCP-Client\obj\Debug\TCP-Client.csprojResolveAssemblyReference.cache
